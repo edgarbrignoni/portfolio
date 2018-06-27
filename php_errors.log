@@ -1,0 +1,18 @@
+[02-Feb-2018 03:58:07 UTC] PHP Warning:  require(.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/src/template.php on line 10
+[02-Feb-2018 03:58:07 UTC] PHP Stack trace:
+[02-Feb-2018 03:58:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/src/template.php:0
+[02-Feb-2018 03:58:07 UTC] PHP Fatal error:  require(): Failed opening required '.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/src/template.php on line 10
+[02-Feb-2018 03:58:07 UTC] PHP Stack trace:
+[02-Feb-2018 03:58:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/src/template.php:0
+[02-Feb-2018 03:58:28 UTC] PHP Warning:  require(.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/src/template.php on line 10
+[02-Feb-2018 03:58:28 UTC] PHP Stack trace:
+[02-Feb-2018 03:58:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/src/template.php:0
+[02-Feb-2018 03:58:28 UTC] PHP Fatal error:  require(): Failed opening required '.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/src/template.php on line 10
+[02-Feb-2018 03:58:28 UTC] PHP Stack trace:
+[02-Feb-2018 03:58:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/src/template.php:0
+[02-Feb-2018 03:58:30 UTC] PHP Warning:  require(.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/src/template.php on line 10
+[02-Feb-2018 03:58:30 UTC] PHP Stack trace:
+[02-Feb-2018 03:58:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/src/template.php:0
+[02-Feb-2018 03:58:30 UTC] PHP Fatal error:  require(): Failed opening required '.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/src/template.php on line 10
+[02-Feb-2018 03:58:30 UTC] PHP Stack trace:
+[02-Feb-2018 03:58:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/src/template.php:0

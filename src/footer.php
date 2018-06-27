@@ -6,8 +6,8 @@
 
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="../../public/assets/vendor/scrollreveal/scrollreveal.min.js"></script>
-    <script src="../../public/assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="./public/assets/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="./public/assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="../../public/assets/js/creative.min.js"></script>
+    <script src="./public/assets/js/creative.min.js"></script>
